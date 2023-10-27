@@ -46,8 +46,15 @@ https://youtu.be/8HhgdQpmWzE
 ## Tải về công cụ Quick check proxy.
 
 Để tải về công cụ bạn cần đăng ký tài khoản và tuy cập đường dẫn dưới đây.
+- [Releases 2.2.8](https://github.com/2movn/Quick-check-Proxy/releases/tag/2.2.8)
+- [Read More](https://2movn.com/p/huong-dan-su-dung-cong-cu-quick-check-proxy)
 
-- [DOWNLOAD](https://2movn.com/p/huong-dan-su-dung-cong-cu-quick-check-proxy)
 
 Chi tiết về công cụ xem tại đây: Quick check proxy - Công cụ kiểm tra proxy nhanh chóng và tiện lợi
+
+# Liên Hệ Hỗ trợ
+- Website: https://2movn.com
+- Mobile: 0869999635
+- TeleGram: https://t.me/mmovnofflical
+- Facebook: https://fb.com/2movn
 
