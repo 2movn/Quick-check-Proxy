@@ -28,7 +28,7 @@ Công cụ Quick check proxy giúp bạn xuất ra định dạng TXT với outp
 
 Hơn nữa, Quick check proxy còn hỗ trợ xuất ra file exel giúp bạn có thể lọc dễ dàng với nhiều thông số.
 
- ![CHECK PROXY LIVE](https://github.com/2movn/Quick-check-Proxy/blob/main/2movn-check-proxy-live.jpg)
+ ![CHECK PROXY LIVE](https://github.com/2movn/Quick-check-Proxy/blob/main/v3.jpg)
 
 # Video sử dụng Quick check proxy
 Để sửa dụng công cụ một các nhanh chóng và chỉnh xác xin mời các bạn xem video của chúng tôi dưới đây.
@@ -46,7 +46,7 @@ https://youtu.be/8HhgdQpmWzE
 ## Tải về công cụ Quick check proxy.
 
 Để tải về công cụ bạn cần đăng ký tài khoản và tuy cập đường dẫn dưới đây.
-- [Releases 2.2.8](https://github.com/2movn/Quick-check-Proxy/releases/tag/2.2.8)
+- [Releases 2.2.8](https://github.com/2movn/Quick-check-Proxy/releases/tag/3.0.0)
 - [Read More](https://2movn.com/p/huong-dan-su-dung-cong-cu-quick-check-proxy)
 
 
