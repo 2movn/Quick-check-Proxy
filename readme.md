@@ -33,7 +33,7 @@ Hơn nữa, Quick check proxy còn hỗ trợ xuất ra file exel giúp bạn c�
 # Video sử dụng Quick check proxy
 Để sửa dụng công cụ một các nhanh chóng và chỉnh xác xin mời các bạn xem video của chúng tôi dưới đây.
 https://youtu.be/8HhgdQpmWzE
-# Tải về Quick check proxy v3
+# Tải về Quick check proxy v3.0.1
 Để sử dụng công cụ xin mời các bạn đọc qua lưu ý của chúng tôi.
 
 ## Lưu ý trước khi tải:
@@ -46,7 +46,7 @@ https://youtu.be/8HhgdQpmWzE
 ## Tải về công cụ Quick check proxy.
 
 Để tải về công cụ bạn cần đăng ký tài khoản và tuy cập đường dẫn dưới đây.
-- [Releases 2.2.8](https://github.com/2movn/Quick-check-Proxy/releases/tag/3.0.0)
+- [Releases 3.0.1](https://github.com/2movn/Quick-check-Proxy/releases/tag/3.0.1)
 - [Read More](https://2movn.com/p/huong-dan-su-dung-cong-cu-quick-check-proxy)
 
 
